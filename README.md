@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: React/Typescript
 - 💞️ I’m looking to collaborate on: Anything
 - 📫 How to reach me: Smoke Signal
-- 🖥️ Currently project: Remaking my portfolio/Re-acquiring it
+- 🖥️ Current project: Remaking my portfolio/Re-acquiring it
 
 <!---
 KKJZ/KKJZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
